@@ -1,5 +1,4 @@
 # XML Spritesheet Importer
-I found this script but wrote it to be compatible with Godot 4
 
 A simple **editor script** for importing spritesheets images into a **Godot**
 project by reading and parsing their xml data file.
